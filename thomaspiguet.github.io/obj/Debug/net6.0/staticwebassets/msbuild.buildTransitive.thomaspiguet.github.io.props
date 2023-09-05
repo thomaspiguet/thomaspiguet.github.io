@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\thomaspiguet.github.io.props" />
+</Project>
